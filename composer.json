@@ -20,7 +20,7 @@
         "cakephp/cakephp-codesniffer": "^4.5",
         "cakephp/debug_kit": "^4.5",
         "cakephp/repl": "^0.1.0",
-        "josegonzalez/dotenv": "^3.2",
+        "josegonzalez/dotenv": "^4.0",
         "phpmd/phpmd": "^2.13",
         "phpstan/phpstan": "^1.10",
         "phpunit/phpunit": "~8.5.0 || ^9.3",
