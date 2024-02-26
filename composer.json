@@ -23,7 +23,7 @@
         "josegonzalez/dotenv": "^3.2",
         "phpmd/phpmd": "^2.13",
         "phpstan/phpstan": "^1.10",
-        "phpunit/phpunit": "~8.5.0 || ^9.3",
+        "phpunit/phpunit": "^10.5.11",
         "vierge-noire/cakephp-fixture-factories": "^2.5"
     },
     "suggest": {
